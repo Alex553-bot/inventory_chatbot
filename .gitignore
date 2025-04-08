@@ -3,3 +3,5 @@
 # ensure that cache files are not uploaded
 **/__pycache__/
 **/.ipynb_checkpoints/
+
+data/
