@@ -1,0 +1,452 @@
+gtin,productCode,size,color,label,category
+9780123456789,TSHIRT-001,M,Navy,Classic Cotton Tee,Tops
+9780123456796,JEANS-002,32,Blue,Slim Fit Denim Jeans,Bottoms
+9780123456802,JACKET-003,L,Black,Lightweight Padded Jacket,Outerwear
+9780123456819,DRESS-004,S,Red,Summer Sundress with Floral Print,Dresses
+9780123456826,SWIM-005,M,Turquoise,One-Piece Swimsuit with Ruching,Swimwear
+9780123456833,LEGGING-006,XS,Gray,High-Waisted Yoga Leggings,Activewear
+9780123456840,SNEAKER-007,9,White,Running Sneakers with Breathable Mesh,Footwear
+9780123456857,SCARF-008,One Size,Green,Cashmere Scarf with Tassels,Accessories
+9780123456864,SHIRT-009,L,White,Oxford Button-Down Shirt,Tops
+9780123456871,SHORTS-010,M,Khaki,Chino Shorts with Belt Loops,Bottoms
+9780123456888,COAT-011,XL,Navy,Wool Overcoat with Peak Lapels,Outerwear
+9780123456895,GOWN-012,S,Black,Evening Gown with Sequin Detail,Dresses
+9780123456901,BIKINI-013,M,Pink,Triangle Bikini Set with Adjustable Straps,Swimwear
+9780123456918,TRACK-014,L,Black,Track Pants with Zippered Pockets,Activewear
+9780123456925,BOOT-015,8,Brown,Leather Ankle Boots with Buckle Detail,Footwear
+9780123456932,HAT-016,One Size,Beige,Fedora Hat with Grosgrain Ribbon,Accessories
+9780123456949,BLOUSE-017,S,Cream,Silk Blouse with Ruffle Detail,Tops
+9780123456956,SKIRT-018,M,Black,Pleated Midi Skirt,Bottoms
+9780123456963,PUFFER-019,L,Red,Down Puffer Jacket with Hood,Outerwear
+9780123456970,MAXI-020,XL,Blue,Bohemian Maxi Dress with Spaghetti Straps,Dresses
+9780123456987,TANKINI-021,S,Coral,Tankini Set with High-Waisted Bottoms,Swimwear
+9780123456994,YOGA-022,M,Purple,Yoga Pants with Wide Waistband,Activewear
+9780123457007,SANDAL-023,7,Tan,Leather Sandals with Adjustable Straps,Footwear
+9780123457014,GLOVES-024,M,Black,Leather Gloves with Fleece Lining,Accessories
+9780123457021,POLO-025,L,Green,Pique Polo Shirt with Short Sleeves,Tops
+9780123457038,CAPRI-026,S,White,Capri Pants with Elastic Waist,Bottoms
+9780123457045,TRENCH-027,M,Beige,Classic Trench Coat with Belt,Outerwear
+9780123457052,SHIFT-028,L,Navy,Shift Dress with Sleeveless Design,Dresses
+9780123457069,COVERUP-029,M,White,Lace Cover-Up with Kimono Sleeves,Swimwear
+9780123457076,SHORTS-030,XL,Black,Running Shorts with Built-In Liner,Activewear
+9780123457083,LOAFER-031,10,Black,Leather Loafers with Tassel Detail,Footwear
+9780123457090,BELT-032,M,Brown,Leather Belt with Metal Buckle,Accessories
+9780123457106,HENLEY-033,S,Gray,Long Sleeve Henley Shirt,Tops
+9780123457113,CULOTTE-034,L,Olive,Culottes with Wide Leg,Bottoms
+9780123457120,RAINCOAT-035,XL,Yellow,Waterproof Raincoat with Hood,Outerwear
+9780123457137,WRAP-036,M,Burgundy,Wrap Dress with Tie Waist,Dresses
+9780123457144,ONEPIECE-037,S,Black,One-Shoulder One-Piece Swimsuit,Swimwear
+9780123457151,HOODIE-038,M,Navy,Fleece Hoodie with Drawstring,Activewear
+9780123457168,SLIPON-039,6,Red,Canvas Slip-On Sneakers,Footwear
+9780123457175,SOCKS-040,M,Black,Ankle Socks with Reinforced Heel,Accessories
+9780123457182,TUNIC-041,L,Purple,Cotton Tunic Top with Embroidery,Tops
+9780123457199,JEGGING-042,XS,Black,Stretch Jeggings with Faux Pockets,Bottoms
+9780123457205,PARKA-043,M,Green,Hooded Parka with Faux Fur Trim,Outerwear
+9780123457212,A-LINE-044,S,Pink,A-Line Dress with Short Sleeves,Dresses
+9780123457229,BOARDSH-045,L,Blue,Board Shorts with Tropical Print,Swimwear
+9780123457236,TANKTOP-046,XL,Gray,Racerback Tank Top,Activewear
+9780123457243,HEELS-047,9,Nude,High Heel Pumps,Footwear
+9780123457250,SUNGLASS-048,One Size,Black,Aviator Sunglasses with Metal Frame,Accessories
+9780123457267,VNECK-049,M,Blue,V-Neck Sweater,Tops
+9780123457274,TROUSER-050,34,Gray,Tailored Trousers,Bottoms
+9780123457281,TSHIRT-051,S,Red,Graphic Print T-Shirt,Tops
+9780123457298,JEANS-052,30,Black,Skinny Jeans with Ripped Knees,Bottoms
+9780123457304,COAT-053,L,Gray,Double-Breasted Pea Coat,Outerwear
+9780123457311,DRESS-054,M,Green,Knee-Length Bodycon Dress,Dresses
+9780123457328,SWIM-055,XL,Navy,High-Neck Halter Swimsuit,Swimwear
+9780123457335,TRACK-056,S,Pink,Fitted Training Jacket,Activewear
+9780123457342,BOOT-057,7,Black,Chelsea Boots with Elastic Side,Footwear
+9780123457359,BAG-058,One Size,Brown,Leather Crossbody Bag,Accessories
+9780123457366,SHIRT-059,M,Pink,Flannel Shirt with Button Cuffs,Tops
+9780123457373,SKORT-060,L,Navy,Tennis Skort with Built-In Shorts,Bottoms
+9780123457380,JACKET-061,XL,Blue,Denim Jacket with Sherpa Collar,Outerwear
+9780123457397,SUNDRESS-062,XS,Yellow,Ruffled Mini Sundress,Dresses
+9780123457403,RASHGUARD-063,L,Black,Long Sleeve Rash Guard,Swimwear
+9780123457410,SHORTS-064,M,Green,Athletic Training Shorts,Activewear
+9780123457427,FLATS-065,8,Silver,Ballet Flats with Bow Detail,Footwear
+9780123457434,BEANIE-066,One Size,Red,Knit Beanie with Pom-Pom,Accessories
+9780123457441,TOP-067,S,White,Cropped Tank Top,Tops
+9780123457458,PANTS-068,36,Beige,Wide Leg Linen Pants,Bottoms
+9780123457465,TRENCH-069,M,Khaki,Belted Trench Coat,Outerwear
+9780123457472,DRESS-070,L,Orange,Off-the-Shoulder Maxi Dress,Dresses
+9780123457489,SUIT-071,XL,Black,Business Suit with Blazer and Pants,Outerwear
+9780123457496,SWIM-072,S,Teal,Ruched Bandeau Bikini Top,Swimwear
+9780123457502,LEGGING-073,M,Charcoal,Seamless Workout Leggings,Activewear
+9780123457519,MULE-074,10,White,Pointed Toe Mules,Footwear
+9780123457526,EARRING-075,One Size,Gold,Hoop Earrings,Accessories
+9780123457533,TEE-076,L,Purple,Crew Neck T-Shirt,Tops
+9780123457540,JEANS-077,28,Gray,Distressed Boyfriend Jeans,Bottoms
+9780123457557,BLAZER-078,S,Navy,Single-Breasted Blazer,Outerwear
+9780123457564,DRESS-079,M,Black,Little Black Dress with Lace,Dresses
+9780123457571,SWIM-080,L,Red,Retro High-Waisted Bikini Bottom,Swimwear
+9780123457588,JOGGER-081,XL,Olive,Cuffed Jogger Pants,Activewear
+9780123457595,HEEL-082,6,Black,Stiletto Heels,Footwear
+9780123457601,WALLET-083,One Size,Brown,Leather Bi-Fold Wallet,Accessories
+9780123457618,SHIRT-084,M,Blue,Denim Button-Up Shirt,Tops
+9780123457625,SKIRT-085,S,Red,Pencil Skirt,Bottoms
+9780123457632,VEST-086,L,Black,Puffer Vest,Outerwear
+9780123457649,DRESS-087,XL,White,Eyelet Sundress,Dresses
+9780123457656,SWIM-088,M,Pink,String Bikini Set,Swimwear
+9780123457663,SPORTSBRA-089,S,Black,High Impact Sports Bra,Activewear
+9780123457670,SNEAKER-090,9,Black,Platform Sneakers,Footwear
+9780123457687,WATCH-091,One Size,Silver,Stainless Steel Watch,Accessories
+9780123457694,TOP-092,M,Yellow,Sleeveless Blouse,Tops
+9780123457700,SHORTS-093,L,Beige,Cargo Shorts,Bottoms
+9780123457717,COAT-094,XL,Brown,Shearling Coat,Outerwear
+9780123457724,DRESS-095,XS,Navy,Wrap Mini Dress,Dresses
+9780123457731,SWIM-096,S,Purple,Cutout One-Piece Swimsuit,Swimwear
+9780123457748,CAPRI-097,M,Gray,Cropped Yoga Pants,Activewear
+9780123457755,OXFORD-098,7,Brown,Leather Oxford Shoes,Footwear
+9780123457762,TIE-099,One Size,Blue,Silk Tie,Accessories
+9780123457779,SWEATER-100,L,Green,Cashmere Turtleneck Sweater,Tops
+9780123457786,JEANS-101,34,White,Straight Leg Jeans,Bottoms
+9780123457793,TSHIRT-102,M,Black,Modal Crew Neck Tee,Tops
+9780123457809,SKIRT-103,S,Navy,Denim Mini Skirt,Bottoms
+9780123457816,JACKET-104,L,Brown,Corduroy Trucker Jacket,Outerwear
+9780123457823,DRESS-105,M,Red,Fit and Flare Dress,Dresses
+9780123457830,SWIM-106,XL,Teal,Halter Neck Swimsuit,Swimwear
+9780123457847,LEGGING-107,XS,Black,Sculpting Leggings,Activewear
+9780123457854,BOOT-108,8,Brown,Suede Cowboy Boots,Footwear
+9780123457861,EARRING-109,One Size,Silver,Dangle Earrings,Accessories
+9780123457878,BLOUSE-110,L,White,Lace Trim Blouse,Tops
+9780123457885,SHORTS-111,M,Gray,Sweat Shorts,Bottoms
+9780123457892,COAT-112,S,Black,Faux Fur Coat,Outerwear
+9780123457908,DRESS-113,XL,Green,Empire Waist Dress,Dresses
+9780123457915,SWIM-114,M,Orange,Ruffled Bandeau Swimsuit,Swimwear
+9780123457922,TRACK-115,L,Navy,Performance Training Pants,Activewear
+9780123457939,SANDAL-116,7,Gold,Gladiator Sandals,Footwear
+9780123457946,SCARF-117,One Size,Red,Wool Scarf,Accessories
+9780123457953,SHIRT-118,S,Blue,Chambray Shirt,Tops
+9780123457960,JEANS-119,32,Black,High-Waisted Wide Leg Jeans,Bottoms
+9780123457977,PUFFER-120,M,Navy,Lightweight Packable Puffer Jacket,Outerwear
+9780123457984,MAXI-121,L,Pink,Floral Print Maxi Dress,Dresses
+9780123457991,BIKINI-122,S,Yellow,Underwire Bikini Top,Swimwear
+9780123458004,YOGA-123,XL,Black,Bootcut Yoga Pants,Activewear
+9780123458011,LOAFER-124,10,Brown,Penny Loafers,Footwear
+9780123458028,GLOVES-125,M,Gray,Fingerless Gloves,Accessories
+9780123458035,POLO-126,L,Navy,Slim Fit Polo Shirt,Tops
+9780123458042,CAPRI-127,S,Black,Cropped Leggings,Bottoms
+9780123458059,TRENCH-128,XL,Gray,Double Breasted Trench Coat,Outerwear
+9780123458066,SHIFT-129,M,Red,Sleeveless Shift Dress,Dresses
+9780123458073,COVERUP-130,L,Black,Mesh Cover-Up,Swimwear
+9780123458080,SHORTS-131,S,Purple,Bike Shorts,Activewear
+9780123458097,SLIPON-132,6,Navy,Espadrille Slip-Ons,Footwear
+9780123458103,BELT-133,M,Black,Studded Belt,Accessories
+9780123458110,HENLEY-134,L,White,Button Henley Top,Tops
+9780123458127,CULOTTE-135,XS,Black,Leather Culottes,Bottoms
+9780123458134,RAINCOAT-136,M,Pink,Lightweight Rain Jacket,Outerwear
+9780123458141,WRAP-137,S,Teal,Knee Length Wrap Dress,Dresses
+9780123458158,ONEPIECE-138,XL,Blue,Halter One-Piece,Swimwear
+9780123458165,HOODIE-139,M,Gray,Pullover Hoodie,Activewear
+9780123458172,SNEAKER-140,9,White,Retro Running Sneakers,Footwear
+9780123458189,SOCKS-141,One Size,White,Knee High Socks,Accessories
+9780123458196,TUNIC-142,S,White,Linen Tunic,Tops
+9780123458202,JEGGING-143,L,Blue,Denim Jeggings,Bottoms
+9780123458219,PARKA-144,XL,Black,Quilted Parka,Outerwear
+9780123458226,A-LINE-145,M,Green,Sleeveless A-Line Dress,Dresses
+9780123458233,BOARDSH-146,S,Black,Performance Board Shorts,Swimwear
+9780123458240,TANKTOP-147,M,White,Ribbed Tank Top,Activewear
+9780123458257,HEELS-148,8,Black,Ankle Strap Heels,Footwear
+9780123458264,SUNGLASS-149,One Size,Brown,Round Sunglasses,Accessories
+9780123458271,VNECK-150,L,Pink,Cashmere V-Neck Sweater,Tops
+9780123458288,TROUSER-151,30,Navy,Wide Leg Trousers,Bottoms
+9780123458295,TSHIRT-152,M,Green,Organic Cotton Crew Neck Tee,Tops
+9780123458301,JEANS-153,36,Indigo,Relaxed Fit Carpenter Jeans,Bottoms
+9780123458318,JACKET-154,L,Olive,Military Style Field Jacket,Outerwear
+9780123458325,DRESS-155,S,Yellow,Tiered Ruffle Mini Dress,Dresses
+9780123458332,SWIM-156,M,Navy,One-Piece Swimsuit with Floral Applique,Swimwear
+9780123458349,LEGGING-157,XL,Black,Compression Training Leggings,Activewear
+9780123458356,SNEAKER-158,11,Gray,Slip-On Walking Sneakers,Footwear
+9780123458363,SCARF-159,One Size,Mustard,Chunky Knit Scarf,Accessories
+9780123458370,SHIRT-160,M,Blue,Linen Button-Down Shirt,Tops
+9780123458387,SHORTS-161,32,Navy,Sailor Shorts with Button Detail,Bottoms
+9780123458394,COAT-162,L,Charcoal,Herringbone Wool Coat,Outerwear
+9780123458400,GOWN-163,XS,Silver,Sequin Embellished Evening Gown,Dresses
+9780123458417,BIKINI-164,L,Orange,Bandeau Bikini Set with Removable Straps,Swimwear
+9780123458424,TRACK-165,S,Red,Retro Track Jacket,Activewear
+9780123458431,BOOT-166,9,Black,Waterproof Hiking Boots,Footwear
+9780123458448,HAT-167,One Size,Black,Wide Brim Sun Hat,Accessories
+9780123458455,BLOUSE-168,M,White,Eyelet Lace Blouse,Tops
+9780123458462,SKIRT-169,S,Green,Wrap Skirt with Floral Print,Bottoms
+9780123458479,PUFFER-170,XL,Black,Longline Puffer Coat,Outerwear
+9780123458486,MAXI-171,M,Red,Halter Maxi Dress with Slit,Dresses
+9780123458493,TANKINI-172,L,Blue,Ruffled Tankini Top,Swimwear
+9780123458509,YOGA-173,S,Teal,High Waisted Capri Leggings,Activewear
+9780123458516,SANDAL-174,10,Brown,Leather Thong Sandals,Footwear
+9780123458523,GLOVES-175,L,Gray,Cashmere Lined Leather Gloves,Accessories
+9780123458530,POLO-176,S,Pink,Slim Fit Pique Polo,Tops
+9780123458547,CAPRI-177,M,Khaki,Stretch Twill Capri Pants,Bottoms
+9780123458554,TRENCH-178,XL,Navy,Double Breasted Trench,Outerwear
+9780123458561,SHIFT-179,L,Peach,Sleeveless Linen Shift Dress,Dresses
+9780123458578,COVERUP-180,S,Pink,Crochet Cover-Up Tunic,Swimwear
+9780123458585,SHORTS-181,M,Gray,Knit Running Shorts,Activewear
+9780123458592,LOAFER-182,8,Burgundy,Velvet Loafers,Footwear
+9780123458608,BELT-183,L,Cognac,Suede Belt with Brass Buckle,Accessories
+9780123458615,HENLEY-184,M,Navy,Thermal Henley Shirt,Tops
+9780123458622,CULOTTE-185,XL,Beige,Linen Culottes,Bottoms
+9780123458639,RAINCOAT-186,S,Red,Packable Rain Jacket,Outerwear
+9780123458646,WRAP-187,L,Black,Jersey Knit Wrap Dress,Dresses
+9780123458653,ONEPIECE-188,M,Green,Cutout One-Piece Swimsuit,Swimwear
+9780123458660,HOODIE-189,XS,Pink,Fleece Pullover Hoodie,Activewear
+9780123458677,SLIPON-190,7,Black,Leather Slip-On Sneakers,Footwear
+9780123458684,SOCKS-191,M,Gray,Merino Wool Socks,Accessories
+9780123458691,TUNIC-192,XL,Blue,Embroidered Tunic Top,Tops
+9780123458707,JEGGING-193,S,Gray,Knit Jeggings,Bottoms
+9780123458714,PARKA-194,L,Olive,Water Resistant Parka,Outerwear
+9780123458721,A-LINE-195,M,Navy,Belted A-Line Dress,Dresses
+9780123458738,BOARDSH-196,XL,Black,Solid Board Shorts,Swimwear
+9780123458745,TANKTOP-197,S,Purple,Racerback Crop Top,Activewear
+9780123458752,HEELS-198,6,Red,Suede Block Heel Pumps,Footwear
+9780123458769,SUNGLASS-199,One Size,Gold,Cat Eye Sunglasses,Accessories
+9780123458776,VNECK-200,M,Gray,Cotton V-Neck T-Shirt,Tops
+9780123458783,TROUSER-201,32,Black,Slim Fit Dress Pants,Bottoms
+9780123458790,TSHIRT-202,L,White,Pocket Crew Neck Tee,Tops
+9780123458806,JEANS-203,30,Light Blue,High Rise Skinny Jeans,Bottoms
+9780123458813,JACKET-204,M,Red,Bomber Jacket,Outerwear
+9780123458820,DRESS-205,XS,Black,Bodycon Mini Dress,Dresses
+9780123458837,SWIM-206,S,Coral,Halter One Piece Swimsuit,Swimwear
+9780123458844,LEGGING-207,L,Navy,Printed Yoga Leggings,Activewear
+9780123458851,SNEAKER-208,10,Black,High Top Sneakers,Footwear
+9780123458868,SCARF-209,One Size,Blue,Silk Scarf,Accessories
+9780123458875,SHIRT-210,XL,Gray,Oxford Shirt,Tops
+9780123458882,SHORTS-211,M,White,Linen Shorts,Bottoms
+9780123458899,COAT-212,S,Beige,Wool Blend Coat,Outerwear
+9780123458905,GOWN-213,M,Gold,Sequin Gown,Dresses
+9780123458912,BIKINI-214,L,Teal,Triangle Bikini,Swimwear
+9780123458929,TRACK-215,S,Gray,Track Pants,Activewear
+9780123458936,BOOT-216,9,Brown,Chelsea Boot,Footwear
+9780123458943,HAT-217,One Size,Navy,Baseball Cap,Accessories
+9780123458950,BLOUSE-218,M,Pink,Silk Blouse,Tops
+9780123458967,SKIRT-219,L,Black,Pencil Skirt,Bottoms
+9780123458974,PUFFER-220,XL,Green,Puffer Jacket,Outerwear
+9780123458981,MAXI-221,S,Blue,Maxi Dress,Dresses
+9780123458998,TANKINI-222,M,Red,Tankini Swimsuit,Swimwear
+9780123459001,YOGA-223,L,Purple,Yoga Pants,Activewear
+9780123459018,SANDAL-224,7,Black,Sandals,Footwear
+9780123459025,GLOVES-225,S,Gray,Gloves,Accessories
+9780123459032,POLO-226,M,White,Polo Shirt,Tops
+9780123459049,CAPRI-227,XL,Navy,Capri Pants,Bottoms
+9780123459056,TRENCH-228,L,Beige,Trench Coat,Outerwear
+9780123459063,SHIFT-229,S,Red,Shift Dress,Dresses
+9780123459070,COVERUP-230,M,White,Swim Cover Up,Swimwear
+9780123459087,SHORTS-231,L,Black,Running Shorts,Activewear
+9780123459094,LOAFER-232,10,Brown,Loafers,Footwear
+9780123459100,BELT-233,M,Black,Belt,Accessories
+9780123459117,HENLEY-234,S,Navy,Henley Shirt,Tops
+9780123459124,CULOTTE-235,XL,Gray,Culottes,Bottoms
+9780123459131,RAINCOAT-236,M,Yellow,Raincoat,Outerwear
+9780123459148,WRAP-237,L,Black,Wrap Dress,Dresses
+9780123459155,ONEPIECE-238,S,Red,One Piece Swimsuit,Swimwear
+9780123459162,HOODIE-239,M,Gray,Hoodie,Activewear
+9780123459179,SLIPON-240,7,White,Slip Ons,Footwear
+9780123459186,SOCKS-241,M,Black,Socks,Accessories
+9780123459193,TUNIC-242,XL,White,Tunic,Tops
+9780123459209,JEGGING-243,S,Black,Jeggings,Bottoms
+9780123459216,PARKA-244,L,Green,Parka,Outerwear
+9780123459223,A-LINE-245,M,Pink,A-Line Dress,Dresses
+9780123459230,BOARDSH-246,XL,Blue,Boardshorts,Swimwear
+9780123459247,TANKTOP-247,S,Gray,Tank Top,Activewear
+9780123459254,HEELS-248,6,Black,Heels,Footwear
+9780123459261,SUNGLASS-249,One Size,Brown,Sunglasses,Accessories
+9780123459278,VNECK-250,M,Blue,V-Neck,Tops
+9780123459285,TROUSER-251,32,Gray,Trousers,Bottoms
+9780123459292,TSHIRT-252,L,Black,Crew Neck Tee,Tops
+9780123459308,JEANS-253,30,Blue,Straight Leg Jeans,Bottoms
+9780123459315,JACKET-254,M,Navy,Denim Jacket,Outerwear
+9780123459322,DRESS-255,XS,Red,Summer Dress,Dresses
+9780123459339,SWIM-256,S,Purple,Bikini Set,Swimwear
+9780123459346,LEGGING-257,L,Black,Leggings,Activewear
+9780123459353,SNEAKER-258,7,White,Sneakers,Footwear
+9780123459360,SCARF-259,One Size,Green,Scarf,Accessories
+9780123459377,SHIRT-260,XL,White,Button Down Shirt,Tops
+9780123459384,SHORTS-261,M,Khaki,Chino Shorts,Bottoms
+9780123459391,COAT-262,S,Black,Winter Coat,Outerwear
+9780123459407,GOWN-263,M,Gold,Evening Gown,Dresses
+9780123459414,BIKINI-264,L,Pink,Bikini,Swimwear
+9780123459421,TRACK-265,S,Gray,Track Suit,Activewear
+9780123459438,BOOT-266,9,Brown,Leather Boots,Footwear
+9780123459445,HAT-267,One Size,Beige,Sun Hat,Accessories
+9780123459452,BLOUSE-268,M,White,Silk Blouse,Tops
+9780123459469,SKIRT-269,L,Black,Mini Skirt,Bottoms
+9780123459476,PUFFER-270,XL,Red,Puffer Vest,Outerwear
+9780123459483,MAXI-271,S,Blue,Maxi Skirt,Dresses
+9780123459490,TANKINI-272,M,Coral,Tankini Top,Swimwear
+9780123459506,YOGA-273,L,Purple,Yoga Set,Activewear
+9780123459513,SANDAL-274,7,Tan,Flip Flops,Footwear
+9780123459520,GLOVES-275,S,Black,Leather Gloves,Accessories
+9780123459537,POLO-276,M,Green,Polo T Shirt,Tops
+9780123459544,CAPRI-277,XL,White,Capri Leggings,Bottoms
+9780123459551,TRENCH-278,L,Khaki,Long Trench Coat,Outerwear
+9780123459568,SHIFT-279,S,Navy,Sleeveless Shift,Dresses
+9780123459575,COVERUP-280,M,White,Beach Coverup,Swimwear
+9780123459582,SHORTS-281,L,Pink,Workout Shorts,Activewear
+9780123459599,LOAFER-282,10,Black,Casual Loafers,Footwear
+9780123459605,BELT-283,M,Brown,Leather Belt,Accessories
+9780123459612,HENLEY-284,S,Gray,Long Sleeve Henley,Tops
+9780123459629,CULOTTE-285,XL,Olive,Wide Leg Culottes,Bottoms
+9780123459636,RAINCOAT-286,M,Red,Lightweight Raincoat,Outerwear
+9780123459643,WRAP-287,L,Teal,Knee Length Wrap,Dresses
+9780123459650,ONEPIECE-288,S,Blue,One Piece Swim,Swimwear
+9780123459667,HOODIE-289,M,Navy,Zip Up Hoodie,Activewear
+9780123459674,SLIPON-290,7,Red,Canvas Slip Ons,Footwear
+9780123459681,SOCKS-291,M,White,Ankle Socks,Accessories
+9780123459698,TUNIC-292,XL,White,Cotton Tunic,Tops
+9780123459704,JEGGING-293,S,Blue,Denim Jeggings,Bottoms
+9780123459711,PARKA-294,L,Black,Fur Hood Parka,Outerwear
+9780123459728,A-LINE-295,M,Green,Sleeveless A Line,Dresses
+9780123459735,BOARDSH-296,XL,Black,Quick Dry Boardshorts,Swimwear
+9780123459742,TANKTOP-297,S,White,Spaghetti Strap Tank,Activewear
+9780123459759,HEELS-298,6,Black,Pointed Toe Heels,Footwear
+9780123459766,SUNGLASS-299,One Size,Brown,Aviator Sunglasses,Accessories
+9780123459773,VNECK-300,M,Pink,Cashmere Sweater,Tops
+9780123459780,TROUSER-301,32,Navy,Dress Pants,Bottoms
+9780123459797,TSHIRT-302,L,White,Graphic Tee,Tops
+9780123459803,JEANS-303,30,Black,Ripped Jeans,Bottoms
+9780123459810,JACKET-304,M,Olive,Utility Jacket,Outerwear
+9780123459827,DRESS-305,XS,Yellow,Sun Dress,Dresses
+9780123459834,SWIM-306,S,Orange,One Piece Swim,Swimwear
+9780123459841,LEGGING-307,L,Gray,Workout Leggings,Activewear
+9780123459858,SNEAKER-308,7,Black,Athletic Sneakers,Footwear
+9780123459865,SCARF-309,One Size,Red,Wool Scarf,Accessories
+9780123459872,SHIRT-310,XL,Blue,Chambray Shirt,Tops
+9780123459889,SHORTS-311,M,Navy,Sailor Shorts,Bottoms
+9780123459896,COAT-312,S,Beige,Pea Coat,Outerwear
+9780123459902,GOWN-313,M,Silver,Formal Gown,Dresses
+9780123459919,BIKINI-314,L,Teal,String Bikini,Swimwear
+9780123459926,TRACK-315,S,Gray,Jogger Pants,Activewear
+9780123459933,BOOT-316,9,Brown,Ankle Boots,Footwear
+9780123459940,HAT-317,One Size,Black,Fedora Hat,Accessories
+9780123459957,BLOUSE-318,M,Pink,Lace Blouse,Tops
+9780123459964,SKIRT-319,L,Black,Midi Skirt,Bottoms
+9780123459971,PUFFER-320,XL,Green,Down Jacket,Outerwear
+9780123459988,MAXI-321,S,Blue,Floral Maxi,Dresses
+9780123459995,TANKINI-322,M,Coral,Swim Tankini,Swimwear
+9780123460007,YOGA-323,L,Purple,Yoga Outfit,Activewear
+9780123460014,SANDAL-324,7,Tan,Leather Sandals,Footwear
+9780123460021,GLOVES-325,S,Black,Cashmere Gloves,Accessories
+9780123460038,POLO-326,M,White,Polo Top,Tops
+9780123460045,CAPRI-327,XL,Navy,Stretch Capris,Bottoms
+9780123460052,TRENCH-328,L,Khaki,Belted Trench,Outerwear
+9780123460069,SHIFT-329,S,Red,Knee Length Shift,Dresses
+9780123460076,COVERUP-330,M,White,Lace Coverup,Swimwear
+9780123460083,SHORTS-331,L,Black,Bike Shorts,Activewear
+9780123460090,LOAFER-332,10,Brown,Slip On Loafers,Footwear
+9780123460106,BELT-333,M,Black,Studded Belt,Accessories
+9780123460113,HENLEY-334,S,Gray,Thermal Henley,Tops
+9780123460120,CULOTTE-335,XL,Olive,Palazzo Pants,Bottoms
+9780123460137,RAINCOAT-336,M,Yellow,Waterproof Raincoat,Outerwear
+9780123460144,WRAP-337,L,Black,Silk Wrap,Dresses
+9780123460151,ONEPIECE-338,S,Red,Retro One Piece,Swimwear
+9780123460168,HOODIE-339,M,Gray,Fleece Hoodie,Activewear
+9780123460175,SLIPON-340,7,White,Espadrille Shoes,Footwear
+9780123460182,SOCKS-341,M,Black,Dress Socks,Accessories
+9780123460199,TUNIC-342,XL,White,Flowy Tunic,Tops
+9780123460205,JEGGING-343,S,Blue,Skinny Jeggings,Bottoms
+9780123460212,PARKA-344,L,Green,Military Parka,Outerwear
+9780123460229,A-LINE-345,M,Pink,Pleated A Line,Dresses
+9780123460236,BOARDSH-346,XL,Blue,Surfing Boardshorts,Swimwear
+9780123460243,TANKTOP-347,S,Gray,Ribbed Tank,Activewear
+9780123460250,HEELS-348,6,Black,High Heels,Footwear
+9780123460267,SUNGLASS-349,One Size,Brown,Round Frame Sunglasses,Accessories
+9780123460274,VNECK-350,M,Blue,Knit V Neck,Tops
+9780123460281,TROUSER-351,32,Gray,Slim Trousers,Bottoms
+9780123460298,TSHIRT-352,L,White,Basic T Shirt,Tops
+9780123460304,JEANS-353,30,Black,Distressed Jeans,Bottoms
+9780123460311,JACKET-354,M,Navy,Windbreaker Jacket,Outerwear
+9780123460328,DRESS-355,XS,Red,Cocktail Dress,Dresses
+9780123460335,SWIM-356,S,Purple,Push Up Bikini,Swimwear
+9780123460342,LEGGING-357,L,Black,Fleece Leggings,Activewear
+9780123460359,SNEAKER-358,7,White,Tennis Shoes,Footwear
+9780123460366,SCARF-359,One Size,Green,Silk Scarf,Accessories
+9780123460373,SHIRT-360,XL,White,Dress Shirt,Tops
+9780123460380,SHORTS-361,M,Khaki,Cargo Shorts,Bottoms
+9780123460397,COAT-362,S,Black,Leather Jacket,Outerwear
+9780123460403,GOWN-363,M,Gold,Prom Dress,Dresses
+9780123460410,BIKINI-364,L,Pink,Brazilian Bikini,Swimwear
+9780123460427,TRACK-365,S,Gray,Warm Up Suit,Activewear
+9780123460434,BOOT-366,9,Brown,Riding Boots,Footwear
+9780123460441,HAT-367,One Size,Beige,Floppy Hat,Accessories
+9780123460458,BLOUSE-368,M,White,Lace Top,Tops
+9780123460465,SKIRT-369,L,Black,Maxi Skirt,Bottoms
+9780123460472,PUFFER-370,XL,Red,Quilted Jacket,Outerwear
+9780123460489,MAXI-371,S,Blue,Boho Maxi,Dresses
+9780123460496,TANKINI-372,M,Coral,Halter Tankini,Swimwear
+9780123460502,YOGA-373,L,Purple,Pilates Outfit,Activewear
+9780123460519,SANDAL-374,7,Tan,Gladiator Sandals,Footwear
+9780123460526,GLOVES-375,S,Black,Driving Gloves,Accessories
+9780123460533,POLO-376,M,Green,Golf Polo,Tops
+9780123460540,CAPRI-377,XL,White,Cropped Leggings,Bottoms
+9780123460557,TRENCH-378,L,Khaki,Classic Trench,Outerwear
+9780123460564,SHIFT-379,S,Navy,A Line Shift,Dresses
+9780123460571,COVERUP-380,M,White,Beach Dress,Swimwear
+9780123460588,SHORTS-381,L,Black,Compression Shorts,Activewear
+9780123460595,LOAFER-382,10,Brown,Driving Loafers,Footwear
+9780123460601,BELT-383,M,Black,Waist Belt,Accessories
+9780123460618,HENLEY-384,S,Gray,Button Up Henley,Tops
+9780123460625,CULOTTE-385,XL,Olive,Knee Length Culottes,Bottoms
+9780123460632,RAINCOAT-386,M,Yellow,Hooded Raincoat,Outerwear
+9780123460649,WRAP-387,L,Black,Evening Wrap,Dresses
+9780123460656,ONEPIECE-388,S,Red,Retro Swimsuit,Swimwear
+9780123460663,HOODIE-389,M,Gray,Pullover Sweatshirt,Activewear
+9780123460670,SLIPON-390,7,White,Boat Shoes,Footwear
+9780123460687,SOCKS-391,M,Black,Crew Socks,Accessories
+9780123460694,TUNIC-392,XL,White,Linen Tunic,Tops
+9780123460700,JEGGING-393,S,Blue,Stretch Jeggings,Bottoms
+9780123460717,PARKA-394,L,Green,Winter Parka,Outerwear
+9780123460724,A-LINE-395,M,Pink,Flared Dress,Dresses
+9780123460731,BOARDSH-396,XL,Blue,Swimming Shorts,Swimwear
+9780123460748,TANKTOP-397,S,Gray,Workout Tank,Activewear
+9780123460755,HEELS-398,6,Black,Dress Heels,Footwear
+9780123460762,SUNGLASS-399,One Size,Brown,Vintage Sunglasses,Accessories
+9780123460779,VNECK-400,M,Blue,Cotton V Neck,Tops
+9780123460786,TROUSER-401,32,Gray,Work Trousers,Bottoms
+9780123460793,TSHIRT-402,S,Yellow,Relaxed Fit Linen Tee,Tops
+9780123460809,JEANS-403,34,Indigo,Bootcut Denim Jeans,Bottoms
+9780123460816,JACKET-404,XL,Burgundy,Quilted Barn Jacket,Outerwear
+9780123460823,DRESS-405,M,Mustard,Sleeveless Knit Dress,Dresses
+9780123460830,SWIM-406,L,Lime,High Waisted Bikini Set,Swimwear
+9780123460847,LEGGING-407,XS,Navy,Cropped Active Leggings,Activewear
+9780123460854,SNEAKER-408,8,Beige,Leather Platform Sneakers,Footwear
+9780123460861,SCARF-409,One Size,Orange,Lightweight Cotton Scarf,Accessories
+9780123460878,SHIRT-410,M,Gray,Slim Fit Work Shirt,Tops
+9780123460885,SHORTS-411,L,Olive,High Waisted Paperbag Shorts,Bottoms
+9780123460892,COAT-412,M,Camel,Double Breasted Wool Coat,Outerwear
+9780123460908,GOWN-413,S,Emerald,Satin Slip Gown,Dresses
+9780123460915,BIKINI-414,XL,Lavender,Ruffled Off-Shoulder Bikini,Swimwear
+9780123460922,TRACK-415,M,Teal,Side Stripe Jogger Pants,Activewear
+9780123460939,BOOT-416,11,Black,Over-the-Knee Suede Boots,Footwear
+9780123460946,HAT-417,One Size,White,Wide Brim Panama Hat,Accessories
+9780123460953,BLOUSE-418,L,Peach,Peplum Blouse with Tie,Tops
+9780123460960,SKIRT-419,XS,Burgundy,Velvet A-Line Skirt,Bottoms
+9780123460977,PUFFER-420,S,Pink,Lightweight Hooded Puffer,Outerwear
+9780123460984,MAXI-421,XL,Turquoise,Tiered Ruffle Maxi Dress,Dresses
+9780123460991,TANKINI-422,M,Navy,Twist Front Tankini Set,Swimwear
+9780123461004,YOGA-423,L,Gray,Cross Waist Yoga Pants,Activewear
+9780123461011,SANDAL-424,9,Silver,Metallic Strappy Sandals,Footwear
+9780123461028,GLOVES-425,S,Beige,Knit Fingerless Gloves,Accessories
+9780123461035,POLO-426,XL,Sky Blue,Performance Golf Polo,Tops
+9780123461042,CAPRI-427,M,Dusty Rose,Pull-On Knit Capris,Bottoms
+9780123461059,TRENCH-428,S,Olive,Relaxed Fit Trench Coat,Outerwear
+9780123461066,SHIFT-429,L,Coral,Belted Linen Shift Dress,Dresses
+9780123461073,COVERUP-430,XS,Black,Lace Trim Swim Cover-Up,Swimwear
+9780123461080,SHORTS-431,M,White,Scalloped Hem Running Shorts,Activewear
+9780123461097,LOAFER-432,6,Tan,Suede Driving Loafers,Footwear
+9780123461103,BELT-433,XL,Cognac,Braided Leather Belt,Accessories
+9780123461110,HENLEY-434,M,Charcoal,Raglan Sleeve Henley,Tops
+9780123461127,CULOTTE-435,S,Rust,High Rise Gaucho Pants,Bottoms
+9780123461134,RAINCOAT-436,L,Teal,Packable Anorak Rain Jacket,Outerwear
+9780123461141,WRAP-437,M,Indigo,Denim Wrap Dress,Dresses
+9780123461158,ONEPIECE-438,XL,Fuschia,Ruched One-Piece Suit,Swimwear
+9780123461165,HOODIE-439,L,Forest Green,French Terry Hoodie,Activewear
+9780123461172,SLIPON-440,11,Navy,Quilted Slip-On Sneakers,Footwear
+9780123461189,SOCKS-441,One Size,Gray,Striped Athletic Socks,Accessories
+9780123461196,TUNIC-442,S,Pink,Embroidered Peasant Tunic,Tops
+9780123461202,JEGGING-443,M,Light Wash,Distressed Denim Jeggings,Bottoms
+9780123461219,PARKA-444,XL,Rust,Sherpa Lined Parka,Outerwear
+9780123461226,A-LINE-445,L,Lemon,Button Front A-Line Dress,Dresses
+9780123461233,BOARDSH-446,M,Gray,Recycled Performance Boardshorts,Swimwear
+9780123461240,TANKTOP-447,XS,Black,Mesh Back Workout Tank,Activewear
+9780123461257,HEELS-448,10,Rose Gold,Pointed Toe Slingback Heels,Footwear
+9780123461264,SUNGLASS-449,One Size,Tortoise,Oversized Square Sunglasses,Accessories
+9780123461271,VNECK-450,L,Emerald,Ribbed V-Neck Sweater,Tops
+9780123461288,TROUSER-451,36,Navy,Cropped Wide Leg Pants,Bottoms
